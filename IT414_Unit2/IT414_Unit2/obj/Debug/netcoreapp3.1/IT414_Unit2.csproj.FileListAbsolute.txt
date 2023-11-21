@@ -1,0 +1,13 @@
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/bin/Debug/netcoreapp3.1/IT414_Unit2.deps.json
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/bin/Debug/netcoreapp3.1/IT414_Unit2.runtimeconfig.json
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/bin/Debug/netcoreapp3.1/IT414_Unit2.runtimeconfig.dev.json
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/bin/Debug/netcoreapp3.1/IT414_Unit2.dll
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/bin/Debug/netcoreapp3.1/IT414_Unit2.pdb
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.csproj.AssemblyReference.cache
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.AssemblyInfoInputs.cache
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.AssemblyInfo.cs
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.csproj.CoreCompileInputs.cache
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.dll
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.pdb
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2/obj/Debug/netcoreapp3.1/IT414_Unit2.genruntimeconfig.cache

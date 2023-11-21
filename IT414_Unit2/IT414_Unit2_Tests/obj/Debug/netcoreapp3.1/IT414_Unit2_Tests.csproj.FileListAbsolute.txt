@@ -1,0 +1,5 @@
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2_Tests/obj/Debug/netcoreapp3.1/IT414_Unit2_Tests.csproj.AssemblyReference.cache
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2_Tests/obj/Debug/netcoreapp3.1/IT414_Unit2_Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2_Tests/obj/Debug/netcoreapp3.1/IT414_Unit2_Tests.AssemblyInfoInputs.cache
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2_Tests/obj/Debug/netcoreapp3.1/IT414_Unit2_Tests.AssemblyInfo.cs
+/Users/daltonutah/Projects/IT414_Unit2/IT414_Unit2_Tests/obj/Debug/netcoreapp3.1/IT414_Unit2_Tests.csproj.CoreCompileInputs.cache
